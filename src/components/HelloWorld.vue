@@ -6,6 +6,7 @@
 
 <script>
 import Vue from 'vue'
+
 import VueQuagga from 'vue-z-quaggajs';
 
 // register component 'v-quagga'
